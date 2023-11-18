@@ -1,10 +1,10 @@
-# fibonacci-numbers
+
 Fibonacci Numbers
 
 Work in progress!
 
 
-## University Books
+## fibonacci-numbers
 
 <a name="readme-top"></a>
 <div align="center">
@@ -14,8 +14,6 @@ Work in progress!
 </div>
 # 📗 Table of Contents
 
-- [fibonacci-numbers](#fibonacci-numbers)
-  - [University Books](#university-books)
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 University Books University Books](#-university-books-university-books)
   - [🛠 Built With ](#-built-with-)
