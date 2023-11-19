@@ -1,9 +1,3 @@
-
-Fibonacci Numbers
-
-Work in progress!
-
-
 ## fibonacci-numbers
 
 <a name="readme-top"></a>
